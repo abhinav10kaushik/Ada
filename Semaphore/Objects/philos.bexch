@@ -1,0 +1,24 @@
+[GENERATED OBJECT FILE]
+b__philos.o
+[PROJECT FILES]
+/students/u6536092/Documents/Semaphore/semaphore.gpr
+20150809013930
+[BOUND OBJECT FILES]
+/students/u6536092/Documents/Semaphore/Objects/id_dispenser.o
+/students/u6536092/Documents/Semaphore/Objects/semaphores.o
+/students/u6536092/Documents/Semaphore/Objects/philos.o
+[GENERATED SOURCE FILES]
+b__philos.ads
+b__philos.adb
+b__philos.ali
+[RESULTING OPTIONS]
+-L/students/u6536092/Documents/Semaphore/Objects/
+-L/students/u6536092/Documents/Semaphore/Objects/
+-L/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/
+-static
+-static-libgcc
+/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/libgnarl.a
+/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/libgnat.a
+-lpthread
+-lrt
+-ldl

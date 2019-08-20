@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__means.o
+[PROJECT FILES]
+/students/u6536092/Downloads/Hello_Concurrent_World/hello_concurrent_world.gpr
+20170722024136
+[BOUND OBJECT FILES]
+/students/u6536092/Downloads/Hello_Concurrent_World/Objects/means.o
+[GENERATED SOURCE FILES]
+b__means.ads
+b__means.adb
+b__means.ali
+[RESULTING OPTIONS]
+-L/students/u6536092/Downloads/Hello_Concurrent_World/Objects/
+-L/students/u6536092/Downloads/Hello_Concurrent_World/Objects/
+-L/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/
+-static
+-static-libgcc
+/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/libgnarl.a
+/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/libgnat.a
+-lpthread
+-lrt
+-ldl

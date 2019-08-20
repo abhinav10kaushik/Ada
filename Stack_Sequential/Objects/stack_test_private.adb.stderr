@@ -1,0 +1,22 @@
+stack_test_private.adb:5:06: warning: unit "Stack_pack_private" is never instantiated
+stack_test_private.adb:9:19: "Stack_Type" is not visible (more references follow)
+stack_test_private.adb:9:19: non-visible declaration at stack_pack_private.ads:10
+stack_test_private.adb:11:19: "Element" is not visible
+stack_test_private.adb:11:19: non-visible declaration at stack_pack_private.ads:6
+stack_test_private.adb:13:04: "Enqueue" is not visible (more references follow)
+stack_test_private.adb:13:04: non-visible declaration at stack_pack_private.ads:11
+stack_test_private.adb:16:01: (style) trailing spaces not permitted
+stack_test_private.adb:17:18: (style) space required
+stack_test_private.adb:18:07: "Dequeue" is not visible
+stack_test_private.adb:18:07: non-visible declaration at stack_pack_private.ads:12
+stack_test_private.adb:19:07: "Put_Line" is not visible
+stack_test_private.adb:19:07: non-visible declaration at a-textio.ads:508
+stack_test_private.adb:19:07: non-visible declaration at a-textio.ads:498
+stack_test_private.adb:22:01: (style) trailing spaces not permitted
+stack_test_private.adb:24:09: "Queue_underflow" is undefined
+stack_test_private.adb:24:28: "Put" is not visible (more references follow)
+stack_test_private.adb:24:28: non-visible declaration at a-textio.ads:465
+stack_test_private.adb:24:28: non-visible declaration at a-textio.ads:459
+stack_test_private.adb:24:28: non-visible declaration at a-textio.ads:392
+stack_test_private.adb:24:28: non-visible declaration at a-textio.ads:386
+stack_test_private.adb:25:09: "Queue_overflow" is undefined

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/philos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/id_dispenser.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/id_dispenser.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/id_dispenser.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/semaphores.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/philos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 23" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/philos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 23" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/philos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 26" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/philos.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 32" line=" 23" >
+      <vfs_project>/students/u6536092/Documents/Semaphore/semaphore.gpr</vfs_project>
+      <vfs_file>/students/u6536092/Documents/Semaphore/Sources/philos.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

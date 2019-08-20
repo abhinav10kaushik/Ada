@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__two_tasks.o
+[PROJECT FILES]
+/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr
+20150731004636
+[BOUND OBJECT FILES]
+/students/u6536092/Downloads/Two_Tasks/Objects/two_tasks.o
+[GENERATED SOURCE FILES]
+b__two_tasks.ads
+b__two_tasks.adb
+b__two_tasks.ali
+[RESULTING OPTIONS]
+-L/students/u6536092/Downloads/Two_Tasks/Objects/
+-L/students/u6536092/Downloads/Two_Tasks/Objects/
+-L/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/
+-static
+-static-libgcc
+/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/libgnarl.a
+/lab/usr/local/gnat/lib/gcc/x86_64-pc-linux-gnu/6.3.1/adalib/libgnat.a
+-lpthread
+-lrt
+-ldl

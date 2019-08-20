@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\simple_protected.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\Sources\count_up.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\simple_protected.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\Sources\protected_element_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\simple_protected.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\Sources\protected_element_generic.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\simple_protected.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\Sources\unprotected_element_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\simple_protected.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Protected\Protected\Sources\unprotected_element_generic.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

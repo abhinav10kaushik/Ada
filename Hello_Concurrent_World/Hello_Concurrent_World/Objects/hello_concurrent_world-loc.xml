@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Hello_Concurrent_World\Hello_Concurrent_World\hello_concurrent_world.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Hello_Concurrent_World\Hello_Concurrent_World\hello_concurrent_world.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Hello_Concurrent_World\Hello_Concurrent_World\Sources\means.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

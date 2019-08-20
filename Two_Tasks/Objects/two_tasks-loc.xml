@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Two_Tasks\two_tasks.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Two_Tasks\Sources\two_tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Two_Tasks\two_tasks.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\ANU\System Concurrency\comp6310\Two_Tasks\Sources\two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/timestamp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/timestamp_absolute.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/timestamp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 6">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 33">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 11">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 22">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 11">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 11">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 17">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 29">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 32">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 34">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 32">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 12">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 15">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 15">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 12">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 15">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 2">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 25">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 33">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 26">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 32">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 16">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 26">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 32">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 29">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 12">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 32">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 33">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 32">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 32">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 33">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 13">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 11">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >/students/u6536092/Downloads/Two_Tasks/two_tasks.gpr</vfs_project>
+      <vfs_file >/students/u6536092/Downloads/Two_Tasks/Sources/two_tasks_timestamped.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
